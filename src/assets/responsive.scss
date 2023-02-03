@@ -1,0 +1,58 @@
+@media(max-width: 1347px){
+    .deals{
+        flex-direction: column-reverse ;
+
+    }
+}
+
+
+
+@media(max-width: 1000px){
+    .items{
+     display: none;
+    }
+
+    .deals{
+        .head-text{
+            text-align: center;
+            h1{
+                font-size: 60px;
+                line-height: 80px;
+            }
+        }
+    }
+
+    .cards-text{
+        text-align: center;
+    }
+
+    .cards{
+        gap: 40px !important;
+        width: auto !important;
+    }
+
+}
+
+
+
+@media(max-width: 823px){
+    .location-search{
+        flex-direction: column;
+        gap: 15px;
+
+    }
+
+    .locBtn{
+        padding: 16px 90px 16px !important;
+        font-size: 12px;
+    }
+
+    .search{
+        input{
+            padding: 16px 50px 16px 16px !important;
+        }
+    }
+}
+
+
+

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "title": "Apple iPhone 13 (128GB) - Green",
+        "img": "src/assets/img/iPhone.png",
+        "price": "₹66,900.00",
+        "discount": "-16% off"
+    },
+
+    {
+        "id": 1,
+        "title": "Samsung Galaxy Tab S8+ - Wifi Only, Graphite",
+        "img": "src/assets/img/tablet.png",
+        "price": "₹74,998.00",
+        "discount": "-13% off"
+    },
+
+    {
+        "id": 2,
+        "title": "Kodak Mini Shot 3 Retro - Yellow, Bluetooth",
+        "img": "src/assets/img/camera.png",
+        "price": "₹74,998.00",
+        "discount": "-13% off"
+    }
+]
