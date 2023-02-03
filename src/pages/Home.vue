@@ -6,14 +6,14 @@
         target="_blank"
       >
         <button class="locBtn">
-          <img src="../assets/img/location.png" alt="location" />
+          <img src="/img/location.png" alt="location" />
           Delhi, 110110
         </button>
       </a>
 
       <div class="search">
         <input v-model="searchWord" type="search" placeholder="Search" />
-        <img src="../assets/img/search.png" alt="search" />
+        <img src="/img/search.png" alt="search" />
       </div>
     </div>
 

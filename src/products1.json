@@ -2,28 +2,28 @@
     {
         "id": 0,
         "title" : "Inalsa Air Fryer Fry-Light-1400W",
-        "img" : "/public/img/camera.png",
+        "img" : "/img/fryver.png",
         "price": "4627.00",
         "discount" : "-40% off"
     },
     {
         "id": 1,
         "title" : "Oneplus Bullets Z2 Bluetooth Wireless",
-        "img" : "/public/img/headphones.png",
+        "img" : "/img/headphones.png",
         "price": "1699.00",
         "discount" : "-26% off"
     },
     {
         "id": 2,
         "title" : "New Fastrack Reflex Play|AMOLED Display",
-        "img" : "/public/img/watch.png",
+        "img" : "/img/watch.png",
         "price": "5699.00",
         "discount" : "-23% off"
     },
     {
         "id": 3,
         "title": "Apple iPhone 13 (128GB) - Green",
-        "img": "/public/img/iPhone.png",
+        "img": "/img/iPhone.png",
         "price": "66900.00",
         "discount": "-16% off"
     },
@@ -31,7 +31,7 @@
     {
         "id": 4,
         "title": "Samsung Galaxy Tab S8+ - Wifi Only, Graphite",
-        "img": "/public/img/tablet.png",
+        "img": "/img/tablet.png",
         "price": "74998.00",
         "discount": "-13% off"
     },
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "title": "Kodak Mini Shot 3 Retro - Yellow, Bluetooth",
-        "img": "/public/img/camera.png",
+        "img": "/img/camera.png",
         "price": "74998.00",
         "discount": "-13% off"
     }

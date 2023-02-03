@@ -26,10 +26,12 @@
 
 export default{
 
+
+
   props:{
     data: {
       required: true,
-      type: Object
+      type: Object,
     }
   },
   data(){
@@ -41,6 +43,7 @@ export default{
   methods:{
     openInner(){
       this.$router.push({path: 'inner', query: {plan: this.data.id}})
+      console.log(this.data.img)
     },
 
     sendId(){

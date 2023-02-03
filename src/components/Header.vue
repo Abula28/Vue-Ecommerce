@@ -10,7 +10,7 @@
 
       <div class="buttons">
         <div class="signIn">
-          <img src="../assets/img/sign-img.png" alt="sign-img" />
+          <img src="img/location.png" alt="sign-img" />
 
           <p>Sign in</p>
         </div>
