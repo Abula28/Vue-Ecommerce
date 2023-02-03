@@ -24,8 +24,7 @@ export default{
     methods:{
       openInner(){
         this.$router.push({path: 'Inner', query: {plan: this.data.id}})
-        console.log('click')
-        console.log(data.img)
+        
       }
     }
 }

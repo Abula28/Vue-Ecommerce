@@ -43,7 +43,6 @@ export default{
   methods:{
     openInner(){
       this.$router.push({path: 'inner', query: {plan: this.data.id}})
-      console.log(this.data.img)
     },
 
     sendId(){
