@@ -64,6 +64,7 @@ export default {
         amount: this.counter,
         price: this.currentData1[0].price * this.counter
       } 
+      console.log(this.currentData1[0].img)
 
       store.commit('setProduct', this.addedItems)
       localStorage.setItem('cartItems', JSON.stringify(store.state.cartProducts))
