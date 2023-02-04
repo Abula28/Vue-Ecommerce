@@ -102,8 +102,6 @@ export default {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100%;
-  max-height: 650px;
   width: 100%;
   max-width: 400px;
   border-radius: 10px;
